@@ -26,3 +26,7 @@ series = {IC3-2023}
 }
 
 ```
+
+### Comparison with Other Datasets
+![Screenshot (164)](https://github.com/abdullaImzan/CustomDB/assets/137156878/e38274a5-1dcf-498f-b124-f65f5f1bccb6)
+
