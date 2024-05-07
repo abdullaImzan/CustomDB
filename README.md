@@ -3,7 +3,7 @@
 
 ### Overview
 The MMDFD dataset is a novel multi-modal dataset created to improve deepfake detection methods by including audio, video, and textual deepfakes simultaneously. It addresses the need for diverse and unbiased datasets to combat 
-the growing threat of deepfake misuse, providing a valuable resource for developing accurate detection algorithms 
+the growing threat of deepfake misuse, providing a valuable resource for developing accurate detection algorithms. See [paper](https://dl.acm.org/doi/10.1145/3607947.3608013) for details.
 
 Please cite our paper in your publications if MMFD is used in your research:
 ```
